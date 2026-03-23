@@ -3,6 +3,12 @@ epitech project / Valentin ROUEN with Loris Pellizzari
 
 ## Preview
 
+![image alt](https://github.com/LeXiO-O/my_world/blob/3a2cda55f47c3ec7ffe0e60906a398fe97aa776d/menu_preview.png)
+## In the menu, enter a map size smaller than 350 × 350.
+## Be careful with the typo: `X ✅ | x ❌`
+
+
+
 ![image alt](https://github.com/LeXiO-O/my_world/blob/7d46dadbc29a59311eb0512eafbbc638f7e880fc/my_world_preview.png)
 ⚠️ The commands shown in this image are not updated ⚠️:
 - Ctrl + Up / Down: rotate the view vertically.
